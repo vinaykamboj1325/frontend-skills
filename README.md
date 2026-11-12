@@ -61,7 +61,7 @@ The "Tested" column is explained in [Test status](#test-status).
 In Claude Code:
 
 ```
-/plugin marketplace add <github-user>/frontend-skills
+/plugin marketplace add vinaykamboj1325/frontend-skills
 /plugin install frontend-skills@frontend-skills
 ```
 
