@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: i18n-products-page
+expected_outcome: |
+  All user-visible text of the products page, including the hook error message, comes from translation files for en, es and ar; prices are formatted with the active locale; the page direction and layout work right-to-left; and the choice of approach and the unreviewed translations are reported.
+context:
+  scaffold_script: place-files.sh

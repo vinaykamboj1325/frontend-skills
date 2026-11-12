@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: api-product-details
+expected_outcome: |
+  The product details request is added in the same layers as the existing products request (typed function in src/api, hook in src/hooks, states in the page), every request state has a visible result, out-of-date responses cannot overwrite the current selection, and the assumed response shape is reported.
+context:
+  scaffold_script: place-files.sh

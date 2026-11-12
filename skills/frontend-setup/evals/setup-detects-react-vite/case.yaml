@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: setup-detects-react-vite
+expected_outcome: |
+  A conventions file is written inside the project that correctly records the React, TypeScript, Vite, CSS Modules and Vitest stack, the one-folder-per-component pattern, the token file and the exact commands, and the final message says what was assumed.
+context:
+  scaffold_script: place-files.sh

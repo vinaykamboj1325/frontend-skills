@@ -1,0 +1,31 @@
+.details {
+  position: relative;
+  margin-top: 24px;
+  padding: 18px;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  background: #f8fafc;
+}
+
+.close {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  cursor: pointer;
+  color: #999;
+}
+
+.stock {
+  color: #15803d;
+  font-size: 13px;
+}
+
+.review {
+  border-top: 1px solid #cbd5e1;
+  padding: 8px 0;
+}
+
+.updated {
+  color: #aaa;
+  font-size: 12px;
+}

@@ -1,0 +1,10 @@
+{
+  "name": "frontend-skills",
+  "version": "0.1.0",
+  "description": "Twenty skills for frontend developers: feature document, document to Figma, Figma or screenshot to code, component scaffolding, forms, API integration, design tokens, translations, tests, stories, debugging, code review, accessibility, responsive, performance and SEO checks, dependency upgrades and TypeScript migration.",
+  "author": {
+    "name": "frontend-skills contributors"
+  },
+  "license": "MIT",
+  "keywords": ["frontend", "figma", "react", "vue", "angular", "accessibility", "testing", "performance"]
+}

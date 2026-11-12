@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: a11y-products-page
+expected_outcome: |
+  The seeded accessibility problems on the products page are found and fixed in code, and the report lists each problem with its WCAG criterion, severity and status, and says what was not tested.
+context:
+  scaffold_script: place-files.sh

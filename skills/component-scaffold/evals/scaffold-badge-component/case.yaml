@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: scaffold-badge-component
+expected_outcome: |
+  A Badge component is created in src/components/Badge with the same file set, export style, typing and styling approach as Button and Card, using only design tokens, with a test for each variant.
+context:
+  scaffold_script: place-files.sh

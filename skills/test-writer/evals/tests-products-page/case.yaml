@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: tests-products-page
+expected_outcome: |
+  Component tests for the products page are added next to it in the project test style, mocking at the API boundary, covering loading, results, error, search, category, selection and saving, and the category bug is reported instead of being encoded as expected behaviour.
+context:
+  scaffold_script: place-files.sh

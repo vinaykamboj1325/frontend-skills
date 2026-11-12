@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: debug-category-filter
+expected_outcome: |
+  The missing category dependency in the useProducts effect is identified as the root cause and fixed, the lint suppression that hid it is removed, a regression test is added, and the stale-response race in the same hook is fixed or reported.
+context:
+  scaffold_script: place-files.sh

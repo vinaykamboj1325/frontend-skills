@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: feature-doc-wishlist
+expected_outcome: |
+  A feature document for the wishlist is saved in docs/features with every template section filled, all states covered for both screens, reuse of existing components decided, testable acceptance criteria, and assumptions listed.
+context:
+  scaffold_script: place-files.sh

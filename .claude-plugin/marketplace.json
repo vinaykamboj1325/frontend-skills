@@ -1,0 +1,14 @@
+{
+  "name": "frontend-skills",
+  "description": "Skills that take a frontend feature from idea to document, to Figma, to reviewed and tested code.",
+  "owner": {
+    "name": "frontend-skills contributors"
+  },
+  "plugins": [
+    {
+      "name": "frontend-skills",
+      "source": "./",
+      "description": "Twenty skills for frontend developers, from feature document and Figma to code, tests, review and audits."
+    }
+  ]
+}

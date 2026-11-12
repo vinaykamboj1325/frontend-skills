@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: form-contact-page
+expected_outcome: |
+  A contact form is built with labelled fields, validation on blur with specific messages linked to their fields, focus moved to the first invalid field on a failed submit, a guarded submit with progress, server errors that keep the input, and tests, without adding a form library.
+context:
+  scaffold_script: place-files.sh
